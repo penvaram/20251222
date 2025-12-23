@@ -1,6 +1,5 @@
 # Jueguito de la bola de billar que al agitarla responde a tus mierdas de preguntas
 
-# Write code below 💖
 
 import random
 
